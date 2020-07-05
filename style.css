@@ -10,10 +10,7 @@ body
 {
     font-size: 15px;
     overflow-x: hidden;
-    font-family: 'Flamenco', cursive; 
-    
-    background-size: cover;
-    background-position: center;
+    font-family: 'Flamenco', cursive;
 }
 .clearfix:after
 {
